@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 -1.854 1440 451.854" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <marker id="arrowToRight" markerWidth="-18" markerHeight="8" refX="0" refY="4" orient="auto" markerUnits="strokeWidth">
+      <title>arrowLeft</title>
+      <path style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;" d="M -16 7 L 0 4 L -16 1 L -15 4 L -16 7 Z&quot; fill=&quot;#222"/>
+    </marker>
+    <marker id="arrowToLeft" markerWidth="18" markerHeight="8" refX="-0.5" refY="4" orient="auto" markerUnits="strokeWidth">
+      <title>arrowRight</title>
+      <path style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;" d="M 16 7 L 0 4 L 16 1 L 15 4 L 16 7 Z"/>
+    </marker>
+    <bx:grid x="0" y="0" width="90" height="30"/>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="363.064" y1="77.557" x2="363.064" y2="77.557" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+    <style>
+		@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i");
+    </style>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="363.064" y1="77.557" x2="363.064" y2="77.557" id="gradient-2">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+  </defs>
+  <style>svg text{stroke:none}</style>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 25px; white-space: pre;" x="664.128" y="26.767"><title>Title End-To-End Flow</title>End-to-end flow</text>
+  <g>
+    <title>Product Options</title>
+    <rect x="90" y="150" width="180" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text x="11.608" y="190.839" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 167.484375, -29.575474)"><title>Product Options</title>Produt Options<tspan x="11.607999801635742" dy="1em">​&nbsp;</tspan>(Story Map)</text>
+    <rect x="90" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect Ideas</title>
+    </rect>
+    <text x="118.488" y="199.392" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Ideas</title>Ideas</text>
+    <rect x="180" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect Selected</title>
+    </rect>
+    <text x="-148.849" y="180.635" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;" transform="matrix(1, 0, 0, 1, 351.731506, 12.711631)"><title>Selected (option)</title>Selected<tspan x="-148.8489990234375" dy="1em">​&nbsp;</tspan>(option)</text>
+  </g>
+  <g>
+    <title>Synthesis</title>
+    <rect x="270" y="150.161" width="180" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text x="358.899" y="167.362" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Title Synthesis</title>Synthesis</text>
+    <rect x="270" y="180.161" width="90" height="30" style="fill: rgb(255, 255, 194);">
+      <title>Rect Hypothesis formation</title>
+    </rect>
+    <text x="-98.015" y="154.727" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 414.684875, 38.617874)"><title>Hypothesis formation</title>Hypothesis<tspan x="-98.01499938964844" dy="1em">​&nbsp;</tspan>formation</text>
+    <rect x="360" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect Hypothesis formed</title>
+    </rect>
+    <text x="8.828" y="175.303" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 398.046875, 18.055382)"><title>Hypothesis formed</title>Hypothesis<tspan x="8.82800006866455" dy="1em">​&nbsp;</tspan>formed</text>
+  </g>
+  <line style="stroke: rgb(0, 0, 0);" x1="270" y1="210.751" x2="270" y2="150">
+    <title>seporator</title>
+  </line>
+  <g>
+    <title>Analisys</title>
+    <rect x="450" y="150" width="180" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text x="538.842" y="167.362" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Title Analisys</title>Analisys</text>
+    <rect x="450" y="180.161" width="90" height="30" style="fill: rgb(255, 255, 194);">
+      <title>Rect Analisys</title>
+    </rect>
+    <text x="380.988" y="294.347" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 113.771606, -96.450005)"><title>Analisys</title>Analisys<tspan x="380.9880065917969" dy="1em">​&nbsp;</tspan></text>
+    <rect x="540" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect Anls. Done</title>
+    </rect>
+    <text x="380.988" y="294.347" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 205.488815, -96.450005)"><title>Anls. Done</title>Anls. Done<tspan x="380.9880065917969" dy="1em">​&nbsp;</tspan></text>
+  </g>
+  <g>
+    <title>Specification</title>
+    <rect x="630" y="150.156" width="180" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text x="380.988" y="200" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 336.034119, -32.640625)"><title>Specification</title>Specification<tspan x="380.9880065917969" dy="1em">​&nbsp;</tspan></text>
+    <rect x="630" y="180.156" width="90" height="30" style="fill: rgb(255, 255, 194);">
+      <title>Rect Spec</title>
+    </rect>
+    <text x="380.988" y="294.347" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 295.534119, -96.450005)"><title>Spec</title>Spec<tspan x="380.9880065917969" dy="1em">​&nbsp;</tspan></text>
+    <rect x="720" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect Spec Done</title>
+    </rect>
+    <text x="380.988" y="294.347" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 388.312714, -96.450005)"><title>Spec. Done</title>Spec. Done<tspan x="380.9880065917969" dy="1em">​&nbsp;</tspan></text>
+  </g>
+  <line style="stroke: rgb(0, 0, 0);" x1="630" y1="210.896" x2="630" y2="150.161">
+    <title>seporator</title>
+  </line>
+  <g>
+    <title>Delivery</title>
+    <text style="fill: rgb(206, 204, 204); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle; white-space: pre;" x="500&quot; y=&quot;400&quot; style=&quot;fill: rgb(206, 204, 204); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle; white-space: pre;" y="400&quot; x=&quot;500&quot; style=&quot;fill: rgb(206, 204, 204); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 137.580994, 31.008904)"><title>Backlog</title><tspan x="630" y="198">Backlog</tspan><tspan x="600" dy="1em">​&nbsp;</tspan></text>
+    <rect x="810" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect ToDo</title>
+    </rect>
+    <text x="525.473" y="62.91" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 328.911224, 134.987488)"><title>ToDo</title>ToDo<tspan x="525.4730224609375" dy="1em">​&nbsp;</tspan></text>
+    <rect x="900" y="180.156" width="90" height="30" style="fill: rgb(255, 255, 194);">
+      <title>Rect Development</title>
+    </rect>
+    <text x="948.075" y="197.9" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Development</title>Development</text>
+    <rect x="990" y="180.156" width="90" height="30" style="fill: rgb(191, 207, 255);">
+      <title>Rect Release</title>
+    </rect>
+    <text x="1034.944" y="197.904" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Release</title>Release</text>
+  </g>
+  <line style="stroke: rgb(0, 0, 0);" x1="1080" y1="360" x2="1080" y2="96.969">
+    <title>LIne Released</title>
+  </line>
+  <g>
+    <title>Learn</title>
+    <rect x="1080" y="180.156" width="90" height="30" style="fill: rgb(200, 231, 237);">
+      <title>Rect Testing</title>
+    </rect>
+    <text x="1106.49" y="197.914" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Testing</title>Testing</text>
+    <rect x="1170" y="180.156" width="90" height="30" style="fill: rgb(255, 255, 194);">
+      <title>Rect Post-Analisys</title>
+    </rect>
+    <text x="1184.393" y="197.909" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Post-Analisys</title>Post-Analisys</text>
+    <rect x="1080.547" y="150.161" width="179.453" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text x="1156.68" y="168.515" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Learn</title>Learn</text>
+  </g>
+  <line style="stroke: rgb(0, 0, 0);" x1="1259.849" y1="262.159" x2="1259.849" y2="150">
+    <title>LIne Post-Analisys</title>
+  </line>
+  <g>
+    <title>Confirmation</title>
+    <rect x="1260" y="180.156" width="90" height="15" style="fill: rgb(200, 231, 237);">
+      <title>Rect Confirmation Aprove</title>
+    </rect>
+    <rect x="1260" y="195.156" width="90" height="15" style="fill: rgb(255, 165, 165);">
+      <title>Rect Confirmation Reject</title>
+    </rect>
+    <rect x="1260" y="150.161" width="90" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text x="914.397" y="180.555" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;" transform="matrix(1, 0, 0, 0.996379, 360.216034, -10.828728)"><title>Confirmation</title>Confirmation</text>
+  </g>
+  <line style="stroke: rgb(0, 0, 0);" x1="1350" y1="390" x2="1350" y2="64.469">
+    <title>LIne Conformation</title>
+  </line>
+  <g>
+    <title>Commitment Point 1</title>
+    <line style="stroke: rgb(0, 0, 0); marker-start: inherit; marker-end: initial;" x1="180" y1="390" x2="180" y2="180.156">
+      <title>Commitment Line 1.1</title>
+    </line>
+    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; font-weight: 300; word-spacing: -76.9px; white-space: pre;" x="486.871" y="303.568" transform="matrix(0, -0.989527, 1, 0, -126.515625, 753.36377)"><title>Commitment 1</title>commitment</text>
+  </g>
+  <g>
+    <title>Commitment Point 2</title>
+    <line style="stroke: rgb(0, 0, 0);" x1="450" y1="330" x2="450" y2="210">
+      <title>Commitment LIne 2</title>
+    </line>
+    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; font-weight: 300; word-spacing: -76.9px; white-space: pre;" x="486.871" y="303.568" transform="matrix(0, -0.989527, 1, 0, 143.96875, 751.760559)"><title>Commitment 2</title>commitment</text>
+  </g>
+  <g>
+    <title>Commitment Point 3</title>
+    <line style="stroke: rgb(0, 0, 0);" x1="810.094" y1="330" x2="810.094" y2="128.308">
+      <title>Commitment Line 3</title>
+    </line>
+    <text transform="matrix(0, -0.989527, 1, 0, 502.656464, 759.80835)" style="fill: rgb(255, 165, 165); font-family: &quot;Open Sans&quot;; font-size: 10px; font-weight: 700; word-spacing: -76.9px; white-space: pre;" x="486.871" y="303.568"><title>Commitment 3</title>commitment</text>
+  </g>
+  <g transform="matrix(0.997823, 0, 0, 1, 353.325195, 56.359375)" style="">
+    <title>Upstream Line</title>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 20px;" x="366.487" y="26.513">Upstream</text>
+    <line style="stroke: rgb(0, 0, 0);" x1="-173.703" y1="78.826" x2="-173.703" y2="8.109">
+      <title>Line</title>
+    </line>
+    <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="-173.562" y1="19.37" x2="351.167" y2="19.37"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="457.671" y1="19.37" x2="998.849" y2="19.37"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 351.505005, 56.015625)">
+    <title>Downstream Line</title>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 15px;" x="502.116" y="54.241">Downstream</text>
+    <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="368.495" y1="49.255" x2="491.206" y2="49.255"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="592.317" y1="49.255" x2="727.948" y2="49.255"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="368.495" y1="94.145" x2="368.495" y2="40.953"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="368.4949951171875" y1="123.984375" x2="368.4949951171875" y2="243.984375"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 351.505005, 40.046875)">
+    <title>Delivery Line</title>
+    <rect x="458.495" y="110.114" width="269.453" height="30" style="fill: rgba(200, 231, 237, 0.5);"/>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;" x="575.905" y="128.435">Delivery</text>
+  </g>
+  <g transform="matrix(0.995813, 0, 0, 1, 353.420502, 40.71875)" style="">
+    <title>Discovery Line</title>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 15px;" x="243.77" y="100">Discovery</text>
+    <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 6;" x1="96.891" y1="96" x2="232.195" y2="96"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 6;" x1="326.128" y1="96" x2="457.495" y2="96"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="96.986" y1="170.177" x2="96.986" y2="86.719">
+      <title>LIne Discovery Start</title>
+    </line>
+  </g>
+  <g>
+    <title>Lead Time</title>
+    <line style="stroke: url(#gradient-1); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="810" y1="253.156" x2="1080" y2="253.156">
+      <title>Line Lead Time</title>
+    </line>
+    <text x="815.849" y="324.222" style="white-space: pre; fill: rgb(60, 60, 60); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 133.33099365234375, -59.715240478515625)"><title>Lead Time</title>Lead Time</text>
+  </g>
+  <g>
+    <title>Time to Build</title>
+    <line style="marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight); stroke: rgb(0, 0, 0);" x1="720" y1="290.555" x2="1079.547" y2="290.555">
+      <title>Line Time To Build</title>
+    </line>
+    <text x="897.475" y="299.832" style="white-space: pre; fill: rgb(60, 60, 60); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Text Time to Build</title>Time to Build</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 31)">
+    <title>Time to Market</title>
+    <line style="marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight); stroke: rgb(0, 0, 0);" x1="180" y1="315.156" x2="1080" y2="315.156">
+      <title>Line Time To Market</title>
+    </line>
+    <text x="629.107" y="330.312" style="white-space: pre; fill: rgb(60, 60, 60); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Text Time To Market</title>Time To Market</text>
+  </g>
+  <g>
+    <title>Time to Learn</title>
+    <line style="marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight); stroke: rgb(0, 0, 0);" x1="1080" y1="253.156" x2="1260" y2="253.156">
+      <title>Line Time To Learn</title>
+    </line>
+    <text x="1172.275" y="263.507" style="white-space: pre; fill: rgb(60, 60, 60); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Text Time to Learn</title>Time to Learn</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -0.141007, 31.296883)">
+    <title>Time of Full Cycle</title>
+    <line style="marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight); stroke: rgb(0, 0, 0);" x1="180.141" y1="344.156" x2="1350" y2="344.156">
+      <title>Line Time of Full Cycle</title>
+    </line>
+    <text x="772.691" y="359.374" style="white-space: pre; fill: rgb(60, 60, 60); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Text Time of Full Cycle</title>Time of Full Cycle</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 351.598969, 30.161011)">
+    <title>Group Legend</title>
+    <text transform="matrix(1, 0, 0, 1, 31.392731, 237.546631)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Выбрали набор опционов</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>с которыми начинаем работать</tspan></text>
+    <text transform="matrix(1, 0, 0, 1, 212.838989, 236.851746)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Определяем ключевую метрику</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>Спрашиваем, зачем нам это делать?</tspan></text>
+    <text transform="matrix(1, 0, 0, 1, 393.578522, 236.851746)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Провели первичный анализ,</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>определили примерные затраты</tspan></text>
+    <text transform="matrix(1, 0, 0, 1, 574.065674, 237.851746)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Специфицировали анализ,</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>подготовили к разработке</tspan></text>
+    <text transform="matrix(1, 0, 0, 1, 799.541809, 236.546616)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Подготовка эксперемента,</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>реализация функционала</tspan></text>
+    <text transform="matrix(1, 0, 0, 1, 1026.504761, 236.546631)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Проведение эксперемента</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>сбор данных и анализ результата</tspan></text>
+    <text transform="matrix(1, 0, 0, 1, 1162.03125, 236.546631)" style="fill: rgb(51, 157, 131); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle; white-space: pre;"><tspan x="-206.119" y="161.695">Принятие решения</tspan><tspan x="-206.119" dy="1em">​&nbsp;</tspan><tspan>по результатам</tspan></text>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="-83.411" y1="389.691" x2="-83.411" y2="419.839"/>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="96.891" y1="389.691" x2="96.891" y2="419.839"/>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="277.193" y1="389.691" x2="277.193" y2="419.839"/>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="457.495" y1="389.691" x2="457.495" y2="419.839"/>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="727.948" y1="389.691" x2="727.948" y2="419.839"/>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="908.25" y1="389.691" x2="908.25" y2="419.839"/>
+    <line style="stroke-linecap: round; stroke-miterlimit: 0; stroke: rgb(212, 212, 212); paint-order: fill; stroke-width: 2px; stroke-dasharray: 4, 3;" x1="998.401" y1="389.691" x2="998.401" y2="419.839"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -373.713989, 57.727699)">
+    <title>Discovery Lead Time</title>
+    <line style="marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight); stroke: url(#gradient-2);" x1="823.808" y1="253.156" x2="1183.808" y2="253.156">
+      <title>Discovery Line Lead Time</title>
+    </line>
+    <text x="1002.185" y="262.112" style="white-space: pre; fill: rgb(60, 60, 60); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Discovery Lead Time</title>Discovery Lead Time</text>
+  </g>
+</svg>
