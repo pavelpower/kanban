@@ -1,536 +1,774 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="10 0 1160 520" width="1160" height="345" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
-  <defs>
-    <marker id="arrowToRight" markerWidth="-18" markerHeight="8" refX="0" refY="4" orient="auto" markerUnits="strokeWidth">
-      <title>arrowLeft</title>
-      <path style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;" d="M -16 7 L 0 4 L -16 1 L -15 4 L -16 7 Z&quot; fill=&quot;#222"/>
-    </marker>
-    <marker id="arrowToLeft" markerWidth="18" markerHeight="8" refX="-0.5" refY="4" orient="auto" markerUnits="strokeWidth">
-      <title>arrowRight</title>
-      <path style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;" d="M 16 7 L 0 4 L 16 1 L 15 4 L 16 7 Z"/>
-    </marker>
-    <bx:grid x="0" y="0" width="10" height="10"/>
-    <style>
-		@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i");
-    </style>
-    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
-      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
-    </pattern>
-    <pattern id="pattern-0-0" patternTransform="matrix(0.121416, 0.090478, -0.554537, 0.744153, 538.109802, 418.917358)" xlink:href="#pattern-0"/>
-  </defs>
-  <style>svg text{stroke:none}</style>
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 20px;" x="530.011" y="23.982"><title>Title: Downstream</title>Downstream</text>
-  <g transform="matrix(1, 0, 0, 1, 192.700989, 38.860527)">
-    <title>Wasted Time</title>
-    <text x="571.22" y="458.614" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, -29.331604, 0.326736)"><title>Wasted Time</title>Wasted Time<tspan x="571.219970703125" dy="1em">​&nbsp;</tspan></text>
-    <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);" d="M 77.277 255.895 C 77.475 315.747 136.889 346.17 226.889 346.17 C 440.698 346.169 522.682 381.732 527.599 411.723" transform="matrix(0.999999, -0.001105, 0.001105, 0.999999, -0.368917, 0.360448)">
-      <title>In Progress to Tresh</title>
-    </path>
-    <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;" d="M 518.673 411.837 L 534.673 408.837 L 518.673 405.837 L 519.673 408.837 L 518.673 411.837 Z" transform="matrix(0.438129, 0.898912, -0.898912, 0.438129, 663.430826, -243.719052)">
-      <title>Arrow down</title>
-    </path>
-    <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);" d="M 296.876 256.17 C 297.074 286.013 384.445 313.756 406.889 323.705 C 473.688 353.315 533.759 381.732 538.676 411.723">
-      <title>Testing to Tresh</title>
-    </path>
-    <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;" d="M 528.805 410.327 L 544.805 407.327 L 528.805 404.327 L 529.805 407.327 L 528.805 410.327 Z" transform="matrix(0.352617, 0.935768, -0.935768, 0.352617, 728.681907, -238.628213)">
-      <title>Arrow down</title>
-    </path>
-    <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);" d="M 461.764 256.17 C 465.077 303.119 464.335 317.51 506.4 354.818 C 541.451 385.905 547.776 381.779 548.624 411.723" transform="matrix(0.999445, 0.033306, -0.033306, 0.999445, 11.402518, -16.628571)">
-      <title>Deployng to Test</title>
-    </path>
-    <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;" d="M 537.727 409.888 L 553.727 406.888 L 537.727 403.888 L 538.727 406.888 L 537.727 409.888 Z" transform="matrix(0.036992, 0.999316, -0.999316, 0.036992, 932.148975, -153.517068)">
-      <title>Arrow down</title>
-    </path>
-    <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);" d="M 624.648 257.69 C 626.635 298.394 613.127 318.402 602.293 335.354 C 580.822 368.95 563.624 370.954 560.726 415.047" transform="matrix(0.999627, 0.027304, -0.027304, 0.999627, 8.037606, -18.479192)">
-      <title>Smoke-test to tresh</title>
-    </path>
-    <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;" d="M 549.808 410.554 L 565.808 407.554 L 549.808 404.554 L 550.808 407.554 L 549.808 410.554 Z" transform="matrix(-0.127287, 0.991866, -0.991866, -0.127287, 1033.048604, -93.84042)">
-      <title>Arrow down</title>
-    </path>
-    <polygon style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(166, 166, 166); fill-opacity: 0.4; fill: url(#pattern-0-0); paint-order: stroke;" points="520.471 411.733 566.059 411.723 553.149 447.458 531.23 447.474">
-      <title>Tresh</title>
-    </polygon>
-    <rect x="549.021" y="416.171" width="10" height="10" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="537.191" y="416.171" width="10" height="10" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="542.433" y="422.082" width="10" height="10" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);" bx:origin="0.74 0.938">
-      <title>issue</title>
-    </rect>
-    <rect x="529.93" y="422.082" width="10" height="10" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);" bx:origin="0.74 0.938">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Planning</title>
-    <rect y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
-      <title>Planning</title>
-    </rect>
-    <text x="86.443" y="140.197" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Planning</title>Planning<tspan x="86.44300079345703" dy="1em">​&nbsp;</tspan></text>
-    <rect y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle; white-space: pre;" x="43.297" y="133.472" transform="matrix(0.999308, 0, 0, 1, 2.132088, 35.529625)" bx:origin="-0.720222 -9.18451"><title>Backlog</title>Backlog</text>
-    <rect x="90" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <text x="134.34" y="168.991" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" bx:origin="-4.844417 -9.23918"><title>ToDo</title>ToDo</text>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Developing</title>
-    <rect x="180" y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
-      <title>Development</title>
-    </rect>
-    <rect x="230.302" y="150.148" width="30" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;">
-      <title>Block Time</title>
-    </rect>
-    <text x="268.627" y="140.197" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Development</title>Development</text>
-    <rect x="180" y="150" width="50.302" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Tocuh Time</title>
-    </rect>
-    <text x="145.212" y="572.299" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 81.441116, -409.1875)"><title>In Progress</title>InProgress<tspan x="145.21200561523438" dy="1em">​&nbsp;</tspan>Review</text>
-    <rect x="270" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <text x="312.751" y="168.988" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Resolve</title>Resolved</text>
-    <g transform="matrix(1.105379, 0, 0, 1, -16.548035, -0.147995)" style="">
-      <title>Lock Time</title>
-      <rect x="223.317" y="180.148" width="27.14" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
-      <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);" points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+<svg viewBox="10 0 1160 520" width="1160" height="345" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+    <defs>
+        <marker id="arrowToRight" markerWidth="-18" markerHeight="8" refX="0" refY="4" orient="auto"
+                markerUnits="strokeWidth">
+            <title>arrowLeft</title>
+            <path style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;"
+                  d="M -16 7 L 0 4 L -16 1 L -15 4 L -16 7 Z&quot; fill=&quot;#222"/>
+        </marker>
+        <marker id="arrowToLeft" markerWidth="18" markerHeight="8" refX="-0.5" refY="4" orient="auto"
+                markerUnits="strokeWidth">
+            <title>arrowRight</title>
+            <path style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round;"
+                  d="M 16 7 L 0 4 L 16 1 L 15 4 L 16 7 Z"/>
+        </marker>
+        <bx:grid x="0" y="0" width="10" height="10"/>
+        <style>
+            @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i");
+        </style>
+        <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+            <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+        </pattern>
+        <pattern id="pattern-0-0"
+                 patternTransform="matrix(0.121416, 0.090478, -0.554537, 0.744153, 538.109802, 418.917358)"
+                 xlink:href="#pattern-0"/>
+    </defs>
+    <style>svg text{stroke:none}</style>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 20px;"
+          x="530.011" y="23.982"><title>Title: Downstream</title>Downstream
+    </text>
+    <g transform="matrix(1, 0, 0, 1, 192.700989, 38.860527)">
+        <title>Wasted Time</title>
+        <text x="571.22" y="458.614"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;"
+              transform="matrix(1, 0, 0, 1, -29.331604, 0.326736)"><title>Wasted Time</title>Wasted Time
+            <tspan x="571.219970703125" dy="1em">​&nbsp;</tspan>
+        </text>
+        <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);"
+              d="M 77.277 255.895 C 77.475 315.747 136.889 346.17 226.889 346.17 C 440.698 346.169 522.682 381.732 527.599 411.723"
+              transform="matrix(0.999999, -0.001105, 0.001105, 0.999999, -0.368917, 0.360448)">
+            <title>In Progress to Tresh</title>
+        </path>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;"
+              d="M 518.673 411.837 L 534.673 408.837 L 518.673 405.837 L 519.673 408.837 L 518.673 411.837 Z"
+              transform="matrix(0.438129, 0.898912, -0.898912, 0.438129, 663.430826, -243.719052)">
+            <title>Arrow down</title>
+        </path>
+        <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);"
+              d="M 296.876 256.17 C 297.074 286.013 384.445 313.756 406.889 323.705 C 473.688 353.315 533.759 381.732 538.676 411.723">
+            <title>Testing to Tresh</title>
+        </path>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;"
+              d="M 528.805 410.327 L 544.805 407.327 L 528.805 404.327 L 529.805 407.327 L 528.805 410.327 Z"
+              transform="matrix(0.352617, 0.935768, -0.935768, 0.352617, 728.681907, -238.628213)">
+            <title>Arrow down</title>
+        </path>
+        <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);"
+              d="M 461.764 256.17 C 465.077 303.119 464.335 317.51 506.4 354.818 C 541.451 385.905 547.776 381.779 548.624 411.723"
+              transform="matrix(0.999445, 0.033306, -0.033306, 0.999445, 11.402518, -16.628571)">
+            <title>Deployng to Test</title>
+        </path>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;"
+              d="M 537.727 409.888 L 553.727 406.888 L 537.727 403.888 L 538.727 406.888 L 537.727 409.888 Z"
+              transform="matrix(0.036992, 0.999316, -0.999316, 0.036992, 932.148975, -153.517068)">
+            <title>Arrow down</title>
+        </path>
+        <path style="fill: rgba(1, 1, 1, 0); marker-end: url(#arrowToRight); paint-order: fill; stroke-width: 2px; stroke: rgba(227, 227, 227, 0.81);"
+              d="M 624.648 257.69 C 626.635 298.394 613.127 318.402 602.293 335.354 C 580.822 368.95 563.624 370.954 560.726 415.047"
+              transform="matrix(0.999627, 0.027304, -0.027304, 0.999627, 8.037606, -18.479192)">
+            <title>Smoke-test to tresh</title>
+        </path>
+        <path style="fill: rgb(216, 216, 216); stroke: rgb(214, 214, 214); stroke-linecap: round; stroke-linejoin: round;"
+              d="M 549.808 410.554 L 565.808 407.554 L 549.808 404.554 L 550.808 407.554 L 549.808 410.554 Z"
+              transform="matrix(-0.127287, 0.991866, -0.991866, -0.127287, 1033.048604, -93.84042)">
+            <title>Arrow down</title>
+        </path>
+        <polygon
+                style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(166, 166, 166); fill-opacity: 0.4; fill: url(#pattern-0-0); paint-order: stroke;"
+                points="520.471 411.733 566.059 411.723 553.149 447.458 531.23 447.474">
+            <title>Tresh</title>
+        </polygon>
+        <rect x="549.021" y="416.171" width="10" height="10"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="537.191" y="416.171" width="10" height="10"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="542.433" y="422.082" width="10" height="10"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);"
+              bx:origin="0.74 0.938">
+            <title>issue</title>
+        </rect>
+        <rect x="529.93" y="422.082" width="10" height="10"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);"
+              bx:origin="0.74 0.938">
+            <title>issue</title>
+        </rect>
     </g>
-    <rect x="260.302" y="150.148" width="9.698" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Tocuh Time</title>
-    </rect>
-  </g>
-  <line style="stroke: rgb(0, 0, 0);" x1="239.59" y1="235.032" x2="239.59" y2="295.032">
-    <title>Seporator</title>
-  </line>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Testing</title>
-    <rect x="360" y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
-      <title>Testing</title>
-    </rect>
-    <rect x="380.302" y="150.148" width="30" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;">
-      <title>Block Time</title>
-    </rect>
-    <rect x="410" y="150.148" width="40" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Touch Time</title>
-    </rect>
-    <text x="449.943" y="140.197" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Testing</title>Testing</text>
-    <rect x="360" y="150" width="20.302" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Touch Time</title>
-    </rect>
-    <text x="405.792" y="168.988" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Testing</title>Testing</text>
-    <rect x="450" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <text x="496.674" y="168.983" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Done</title>Done</text>
-    <g transform="matrix(1.10538, 0, 0, 1, 133.45192, -0.147995)" style="">
-      <title>Lock Time</title>
-      <rect x="223.317" y="180.148" width="27.14" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
-      <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);" points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Planning</title>
+        <rect y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
+            <title>Planning</title>
+        </rect>
+        <text x="86.443" y="140.197"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Planning</title>Planning
+            <tspan x="86.44300079345703" dy="1em">​&nbsp;</tspan>
+        </text>
+        <rect y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle; white-space: pre;"
+              x="43.297" y="133.472" transform="matrix(0.999308, 0, 0, 1, 2.132088, 35.529625)"
+              bx:origin="-0.720222 -9.18451"><title>Backlog</title>Backlog
+        </text>
+        <rect x="90" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <text x="134.34" y="168.991"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"
+              bx:origin="-4.844417 -9.23918"><title>ToDo</title>ToDo
+        </text>
     </g>
-    <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="360" y1="225.166" x2="540" y2="225.166">
-      <title>Time to Self Test</title>
-    </line>
-    <text x="411.825" y="235.383" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Time to Self Test</title>Time to Self Test</text>
-  </g>
-  <line style="stroke: rgb(0, 0, 0);" x1="419.59" y1="235.032" x2="419.59" y2="295.032">
-    <title>Seporator</title>
-  </line>
-  <line style="stroke: rgb(0, 0, 0);" x1="419.59" y1="295.18" x2="419.59" y2="355.032">
-    <title>Time Border</title>
-  </line>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Deploy</title>
-    <rect x="540" y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
-      <title>Deploy</title>
-    </rect>
-    <text x="630.323" y="140.19" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Deploy</title>Deploy</text>
-    <rect x="570.302" y="150" width="59.698" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Touch Time</title>
-    </rect>
-    <rect x="630" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <rect x="540" y="150.296" width="30.302" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;">
-      <title>Block Time</title>
-    </rect>
-    <text x="586.188" y="168.967" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Deploying</title>Deploying</text>
-    <text x="670.877" y="168.977" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Deploed</title>Deploed</text>
-    <g transform="matrix(1.10538, 0, 0, 1, 293.451965, 0.00001)" style="">
-      <title>Lock Time</title>
-      <rect x="223.317" y="180.148" width="27.14" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
-      <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);" points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Developing</title>
+        <rect x="180" y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
+            <title>Development</title>
+        </rect>
+        <rect x="230.302" y="150.148" width="30" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;">
+            <title>Block Time</title>
+        </rect>
+        <text x="268.627" y="140.197"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Development</title>Development
+        </text>
+        <rect x="180" y="150" width="50.302" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Tocuh Time</title>
+        </rect>
+        <text x="145.212" y="572.299"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"
+              transform="matrix(1, 0, 0, 1, 81.441116, -409.1875)"><title>In Progress</title>InProgress<tspan
+                x="145.21200561523438" dy="1em">​&nbsp;</tspan>Review
+        </text>
+        <rect x="270" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <text x="312.751" y="168.988"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Resolve</title>Resolved
+        </text>
+        <g transform="matrix(1.105379, 0, 0, 1, -16.548035, -0.147995)" style="">
+            <title>Lock Time</title>
+            <rect x="223.317" y="180.148" width="27.14" height="29.852"
+                  style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
+            <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);"
+                      points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+        </g>
+        <rect x="260.302" y="150.148" width="9.698" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Tocuh Time</title>
+        </rect>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="90.82"
+              y1="225.166" x2="270.41" y2="225.166">
+            <title>Deploing Time</title>
+        </line>
+        <text x="141.728" y="234.137"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;">
+            <title>Deploing Time</title>Developing Time
+        </text>
     </g>
-    <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="540" y1="225.166" x2="720" y2="225.166">
-      <title>Time to Deploy</title>
+    <line style="stroke: rgb(0, 0, 0);" x1="239.59" y1="235.032" x2="239.59" y2="295.032">
+        <title>Seporator</title>
     </line>
-    <text x="599.153" y="234.018" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Time to Deploy</title>Time to Deploy</text>
-  </g>
-  <line style="stroke: rgb(0, 0, 0);" x1="599.892" y1="295.032" x2="599.892" y2="354.697">
-    <title>Time Border</title>
-  </line>
-  <line style="stroke: rgb(0, 0, 0);" x1="599.892" y1="235.032" x2="599.892" y2="295.032">
-    <title>Seporator</title>
-  </line>
-  <line style="stroke: rgb(0, 0, 0);" x1="779.741" y1="295.032" x2="779.741" y2="355.032">
-    <title>Time Border</title>
-  </line>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Release</title>
-    <rect x="720.151" y="120.148" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
-      <title>Release</title>
-    </rect>
-    <text x="810.293" y="140.184" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Release</title>Release</text>
-    <rect x="720.151" y="150.148" width="90" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Touch Time</title>
-    </rect>
-    <text x="766.182" y="168.989" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Smoke-Test</title>Smoke-test</text>
-    <rect x="810.302" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <text x="859.147" y="168.989" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>Released</title>Released</text>
-  </g>
-  <line style="stroke: rgb(0, 0, 0);" x1="779.59" y1="235.032" x2="779.59" y2="295.032">
-    <title>Seporator</title>
-  </line>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Commitment Point</title>
-    <line style="stroke: rgb(0, 0, 0);" x1="89.672" y1="270" x2="89.672" y2="150">
-      <title>Commitment Line</title>
-    </line>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; font-weight: 300; word-spacing: -76.9px; white-space: pre;" x="486.871" y="303.568" transform="matrix(0, -0.989527, 1, 0, -216.390625, 721.760559)"><title>Commitment</title>commitment</text>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 930.902954, -156.714706)">
-    <title>Touch Time</title>
-    <rect x="90" y="390" width="90" height="30" style="fill: rgb(255, 255, 194);">
-      <title>Touch Time</title>
-    </rect>
-    <line style="stroke: rgb(0, 0, 0);" x1="90" y1="450" x2="90" y2="390"/>
-    <line style="stroke: rgb(0, 0, 0);" x1="180" y1="450" x2="180" y2="390"/>
-    <text x="135.752" y="447.512" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;"><title>Touch Time</title>Touch Time</text>
-    <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToRight); marker-end: url(#arrowToLeft);" x1="89.751" y1="435.113" x2="180" y2="435.113"/>
-    <line style="stroke: rgb(0, 0, 0);" x1="63.449" y1="435.113" x2="206.989" y2="435.113"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 930.903015, -250.000244)">
-    <title>Buffer Time</title>
-    <rect x="90.73" y="390" width="90" height="30" style="fill: rgb(191, 207, 255);">
-      <title>Buffer Time</title>
-    </rect>
-    <line style="stroke: rgb(0, 0, 0);" x1="90" y1="450" x2="90" y2="390"/>
-    <line style="stroke: rgb(0, 0, 0);" x1="180" y1="450" x2="180" y2="390"/>
-    <text x="135.752" y="447.512" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;"><title>Buffer Time</title>Buffer Time</text>
-    <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToRight); marker-end: url(#arrowToLeft);" x1="89.751" y1="435.113" x2="180" y2="435.113"/>
-    <line style="stroke: rgb(0, 0, 0);" x1="63.449" y1="435.113" x2="206.989" y2="435.113"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Lead Time</title>
-    <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="89.672" y1="256.217" x2="810.302" y2="256.217">
-      <title>Lead Time</title>
-    </line>
-    <text x="469.521" y="268.089" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;" transform="matrix(1, 0, 0, 0.937449, -39.213623, 16.02479)"><title>Lead Time</title>Lead Time</text>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 797.313293, 135.031036)">
-    <title>Lock Time</title>
-    <rect x="223.317" y="180.148" width="27.14" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
-    <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);" points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
-    <g transform="matrix(1, 0, 0, 1, 158.526688, -172.720734)">
-      <title>Sheme Lock Time</title>
-      <line style="stroke: rgb(0, 0, 0);" x1="65.063" y1="412.721" x2="65.063" y2="352.721"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="92.078" y1="412.721" x2="92.078" y2="352.721"/>
-      <text x="135.752" y="447.512" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;" transform="matrix(1, 0, 0, 0.999999, -2.451355, -54.231926)"><title>Lock Time</title>Lock Time<tspan x="135.7519989013672" dy="1em">​&nbsp;</tspan></text>
-      <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToRight); marker-end: url(#arrowToLeft);" x1="64.814" y1="397.834" x2="92.078" y2="397.834"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="38.512" y1="397.834" x2="154.79" y2="397.834"/>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Testing</title>
+        <rect x="360" y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
+            <title>Testing</title>
+        </rect>
+        <rect x="380.302" y="150.148" width="30" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;">
+            <title>Block Time</title>
+        </rect>
+        <rect x="410" y="150.148" width="40" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Touch Time</title>
+        </rect>
+        <text x="449.943" y="140.197"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Testing</title>Testing
+        </text>
+        <rect x="360" y="150" width="20.302" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Touch Time</title>
+        </rect>
+        <text x="405.792" y="168.988"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Testing</title>Testing
+        </text>
+        <rect x="450" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <text x="496.674" y="168.983"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Done</title>Done
+        </text>
+        <g transform="matrix(1.10538, 0, 0, 1, 133.45192, -0.147995)" style="">
+            <title>Lock Time</title>
+            <rect x="223.317" y="180.148" width="27.14" height="29.852"
+                  style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
+            <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);"
+                      points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+        </g>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="270.41"
+              y1="225.166" x2="450" y2="225.166">
+            <title>Time to Self Test</title>
+        </line>
+        <text x="331.74" y="234.137"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;">
+            <title>Time to Self Test</title>Time to Self Test
+        </text>
     </g>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
-    <title>Time to Build</title>
-    <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="0" y1="286" x2="810.302" y2="286">
-      <title>Time to Build</title>
+    <line style="stroke: rgb(0, 0, 0);" x1="419.59" y1="235.032" x2="419.59" y2="295.032">
+        <title>Seporator</title>
     </line>
-    <text x="380.314" y="297.493" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"><title>Time to Build</title>Time to Build</text>
-  </g>
-  <line style="stroke: rgb(0, 0, 0);" x1="869.892" y1="415.032" x2="869.892" y2="265.032">
-    <title>Released Time Border</title>
-  </line>
-  <line style="stroke: rgb(0, 0, 0);" x1="59.59" y1="235.18" x2="59.59" y2="415.032">
-    <title>Start Time Border</title>
-  </line>
-  <g style="" transform="matrix(1.2, 0, 0, 1, -66.108002, -40.000252)">
-    <title>Summ WIP</title>
-    <rect x="438.333" y="138.485" width="75" height="20.187" style="fill: rgb(216, 216, 216);"/>
-    <text style="fill: rgba(0, 0, 0, 0.86); font-family: &quot;Open Sans&quot;; font-size: 10px; stroke: rgb(0, 0, 0); stroke-width: 0.5px; white-space: pre;" x="360.389" y="152.214" transform="matrix(0.833333, 0, 0, 1, 145.377625, 0.566741)"><title>Work In Progress</title>Work In Progress</text>
-    <path style="fill: none; stroke: rgb(204, 204, 155);" d="M 180.073 170 C 180.073 170 185.944 167.867 193.31 166.266 C 206.629 163.371 468.877 163.455 468.877 163.455 L 473.534 158.672 L 477.216 163.354 C 477.216 163.354 752.611 165.092 766.667 166.875 C 771.978 167.549 780 169.977 780 169.977">
-      <title>Bracket WIP</title>
-    </path>
-    <rect x="180" y="170" width="375" height="105.031" style="fill: rgba(103, 85, 218, 0.27);">
-      <title>Summ WIP</title>
-    </rect>
-    <rect x="555" y="170" width="225" height="105.031" style="stroke-dashoffset: 1px; stroke-width: 27.2727px; stroke-miterlimit: 22; paint-order: stroke; fill-opacity: 0.77; fill: rgba(214, 209, 245, 0.51);">
-      <title>Sub Summ WIP</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Todo</title>
-    <rect x="180" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="180" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="180" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="180" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="200" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="200" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="200" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="220" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="220" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="240" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="240" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="240" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="240" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues In Progress</title>
-    <rect x="270" y="200.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="270" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="290" y="200.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="290" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="320" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
-      <title>issue blocked</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Resolved</title>
-    <rect x="409.698" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="429.698" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="429.698" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="429.698" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="429.698" y="180.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -20.108002, -4.968692)">
-    <title>Issues Testing</title>
-    <rect x="460" y="200.296" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
-      <title>issue blocked</title>
-    </rect>
-    <rect x="460" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
-      <title>issue blocked</title>
-    </rect>
-    <rect x="510" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Testing Done</title>
-    <rect x="609.698" y="200.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="590" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="609.698" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Deploying</title>
-    <rect x="630" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
-      <title>issue blocked</title>
-    </rect>
-    <rect x="670" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="670" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="670" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 149.891998, -40.000252)">
-    <title>Throughput</title>
-    <rect x="720" y="170" width="90" height="105.18" style="fill: rgb(179, 247, 166);">
-      <title>Sum Throughput</title>
-    </rect>
-    <rect x="730" y="138.485" width="70" height="20.187" style="fill: rgb(216, 216, 216);"/>
-    <text style="font-family: &quot;Open Sans&quot;; font-size: 10px; stroke: rgb(0, 0, 0); stroke-width: 0.5px; white-space: pre;" x="736.656" y="152.214"><title>Throughput</title>Throughput</text>
-    <path style="stroke: rgb(204, 204, 155); fill: none;" d="M 720 170 C 720 170 719.978 167.509 721.98 165 C 723.975 162.5 761.882 162.5 761.882 162.5 L 763.877 160 L 765.872 162.5 C 765.872 162.5 805.713 162.5 807.768 165 C 809.762 167.425 809.698 169.98 809.698 169.98">
-      <title>Bracket Throughput</title>
-    </path>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Deploed</title>
-    <rect x="789.698" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="789.698" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="789.698" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="770" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="750" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="769.698" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Smoke-test</title>
-    <rect x="830" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="830" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="850" y="220.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="850" y="200.148" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="830" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="830" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="830" y="140" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Backlog</title>
-    <rect x="130" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="130" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="130" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="130" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="110" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="110" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="110" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="110" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="89.698" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="89.698" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="89.698" y="160" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="89.698" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="89.698" y="140" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="109.698" y="140" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
-    <title>Issues Released</title>
-    <rect x="949.37" y="219.852" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="969.37" y="220" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="969.37" y="200" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-    <rect x="969.37" y="180" width="20" height="20" style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
-      <title>issue</title>
-    </rect>
-  </g>
-  <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="59.892" y1="235.032" x2="59.892" y2="125.032">
-    <title>Start backlog timline</title>
-  </line>
-  <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="149.965" y1="235.032" x2="149.965" y2="50">
-    <title>ToDo Itteration TimeLine</title>
-  </line>
-  <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="599.892" y1="235.032" x2="599.892" y2="125.032">
-    <title>Tested Timeline</title>
-  </line>
-  <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="689.892" y1="235.18" x2="689.892" y2="50">
-    <title>Deploying timeline</title>
-  </line>
-  <g>
-    <title>Iteration time</title>
-  </g>
-  <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="779.59" y1="235.032" x2="779.59" y2="124.884">
-    <title>Deployed Timeline</title>
-  </line>
-  <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="869.892" y1="235.031" x2="869.892" y2="50">
-    <title>Somke-test Timeline</title>
-  </line>
-  <text x="33.606" y="67.734" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>help 1</title>Запросы готовые<tspan x="34.532" dy="1em" style="font-size: 12px; word-spacing: 0px;">​&nbsp;</tspan>к разработке</text>
-  <text x="389.892" y="70.109" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>help 2</title>Процесс разработки </text>
-  <text x="730.97" y="67.116" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>help 3</title>Поставленая<tspan x="729.896" dy="1em" style="font-size: 12px; word-spacing: 0px;">​&nbsp;</tspan>функциональность</text>
-  <text x="880.97" y="67.734" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>help 4</title>Функциональность<tspan x="879.896" dy="1em" style="font-size: 12px; word-spacing: 0px;">​&nbsp;</tspan>включена для использования<tspan x="879.896" dy="1em" style="font-size: 12px; word-spacing: 0px;">​&nbsp;</tspan></text>
-  <text x="149.447" y="450.834" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"><title>help 5</title>Команда берет на себя<tspan x="149.447" dy="1em" style="font-size: 10px; word-spacing: 0px;">​&nbsp;</tspan>обязательство выполнить задачи</text>
-  <text x="839.118" y="487.459" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;" transform="matrix(1, 0, 0, 1, 33.001373, -36.625252)"><title>help 5</title>Команда выполняет взятые<tspan x="839.1179809570312" dy="1em">​</tspan>на себя обязательства</text>
+    <line style="stroke: rgb(0, 0, 0);" x1="330" y1="295.18" x2="330" y2="355.032">
+        <title>Time Border</title>
+    </line>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Deploy</title>
+        <rect x="540" y="120" width="180" height="30" style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
+            <title>Deploy</title>
+        </rect>
+        <text x="630.323" y="140.19"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Deploy</title>Deploy
+        </text>
+        <rect x="570.302" y="150" width="59.698" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Touch Time</title>
+        </rect>
+        <rect x="630" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <rect x="540" y="150.296" width="30.302" height="29.852" style="fill: rgb(255, 165, 165); stroke-width: 0px;">
+            <title>Block Time</title>
+        </rect>
+        <text x="586.188" y="168.967"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Deploying</title>Deploying
+        </text>
+        <text x="670.877" y="168.977"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Deploed</title>Deploed
+        </text>
+        <g transform="matrix(1.10538, 0, 0, 1, 293.451965, 0.00001)" style="">
+            <title>Lock Time</title>
+            <rect x="223.317" y="180.148" width="27.14" height="29.852"
+                  style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
+            <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);"
+                      points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+        </g>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="450.41"
+              y1="225.088" x2="630.41" y2="225.088">
+            <title>Time to Deploy</title>
+        </line>
+        <text x="509.563" y="233.94"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;">
+            <title>Time to Deploy</title>Time to Deploy
+        </text>
+    </g>
+    <line style="stroke: rgb(0, 0, 0);" x1="510" y1="295.031" x2="510" y2="354.696">
+        <title>Time Border</title>
+    </line>
+    <line style="stroke: rgb(0, 0, 0);" x1="599.892" y1="235.032" x2="599.892" y2="295.032">
+        <title>Seporator</title>
+    </line>
+    <line style="stroke: rgb(0, 0, 0);" x1="690" y1="294.285" x2="690" y2="354.285">
+        <title>Time Border</title>
+    </line>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Release</title>
+        <rect x="720.151" y="120.148" width="180" height="30"
+              style="paint-order: stroke; fill: rgba(200, 231, 237, 0.5);">
+            <title>Release</title>
+        </rect>
+        <text x="810.293" y="140.184"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Release</title>Release
+        </text>
+        <rect x="720.151" y="150.148" width="90" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Touch Time</title>
+        </rect>
+        <text x="766.182" y="168.989"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Smoke-Test</title>Smoke-test
+        </text>
+        <rect x="810.302" y="150" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <text x="859.147" y="168.989"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+            <title>Released</title>Released
+        </text>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="630"
+              y1="225" x2="810" y2="225">
+            <title>Smoke-Test Time</title>
+        </line>
+        <text x="680.348" y="234.451"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;">
+            <title>Smoke-Test Time</title>Smoke-Test Time
+            <tspan x="680.3480224609375" dy="1em">​</tspan>
+        </text>
+    </g>
+    <line style="stroke: rgb(0, 0, 0);" x1="779.59" y1="235.032" x2="779.59" y2="295.032">
+        <title>Seporator</title>
+    </line>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Commitment Point</title>
+        <line style="stroke: rgb(0, 0, 0);" x1="89.672" y1="270" x2="89.672" y2="150">
+            <title>Commitment Line</title>
+        </line>
+        <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; font-weight: 300; word-spacing: -76.9px; white-space: pre;"
+              x="486.871" y="303.568" transform="matrix(0, -0.989527, 1, 0, -216.390625, 721.760559)"><title>
+            Commitment</title>commitment
+        </text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 930.902954, -156.714706)">
+        <title>Touch Time</title>
+        <rect x="90" y="390" width="90" height="30" style="fill: rgb(255, 255, 194);">
+            <title>Touch Time</title>
+        </rect>
+        <line style="stroke: rgb(0, 0, 0);" x1="90" y1="450" x2="90" y2="390"/>
+        <line style="stroke: rgb(0, 0, 0);" x1="180" y1="450" x2="180" y2="390"/>
+        <text x="135.752" y="447.512"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;">
+            <title>Touch Time</title>Touch Time
+        </text>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToRight); marker-end: url(#arrowToLeft);" x1="89.751"
+              y1="435.113" x2="180" y2="435.113"/>
+        <line style="stroke: rgb(0, 0, 0);" x1="63.449" y1="435.113" x2="206.989" y2="435.113"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 930.903015, -250.000244)">
+        <title>Buffer Time</title>
+        <rect x="90.73" y="390" width="90" height="30" style="fill: rgb(191, 207, 255);">
+            <title>Buffer Time</title>
+        </rect>
+        <line style="stroke: rgb(0, 0, 0);" x1="90" y1="450" x2="90" y2="390"/>
+        <line style="stroke: rgb(0, 0, 0);" x1="180" y1="450" x2="180" y2="390"/>
+        <text x="135.752" y="447.512"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;">
+            <title>Buffer Time</title>Buffer Time
+        </text>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToRight); marker-end: url(#arrowToLeft);" x1="89.751"
+              y1="435.113" x2="180" y2="435.113"/>
+        <line style="stroke: rgb(0, 0, 0);" x1="63.449" y1="435.113" x2="206.989" y2="435.113"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Lead Time</title>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="89.672"
+              y1="256.217" x2="810.302" y2="256.217">
+            <title>Lead Time</title>
+        </line>
+        <text x="469.521" y="268.089"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;"
+              transform="matrix(1, 0, 0, 0.937449, -39.213623, 16.02479)"><title>Lead Time</title>Lead Time
+        </text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 797.313293, 135.031036)">
+        <title>Lock Time</title>
+        <rect x="223.317" y="180.148" width="27.14" height="29.852"
+              style="fill: rgb(255, 165, 165); stroke-width: 0px;"/>
+        <polyline style="fill: rgb(255, 50, 50); paint-order: stroke; stroke-width: 2px; stroke: rgb(61, 9, 5);"
+                  points="234.641 205.235 234.641 186.327 243.367 197.628 234.75 197.734"/>
+        <g transform="matrix(1, 0, 0, 1, 158.526688, -172.720734)">
+            <title>Sheme Lock Time</title>
+            <line style="stroke: rgb(0, 0, 0);" x1="65.063" y1="412.721" x2="65.063" y2="352.721"/>
+            <line style="stroke: rgb(0, 0, 0);" x1="92.078" y1="412.721" x2="92.078" y2="352.721"/>
+            <text x="135.752" y="447.512"
+                  style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 8px; text-anchor: middle;"
+                  transform="matrix(1, 0, 0, 0.999999, -2.451355, -54.231926)"><title>Lock Time</title>Lock Time
+                <tspan x="135.7519989013672" dy="1em">​&nbsp;</tspan>
+            </text>
+            <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToRight); marker-end: url(#arrowToLeft);"
+                  x1="64.814" y1="397.834" x2="92.078" y2="397.834"/>
+            <line style="stroke: rgb(0, 0, 0);" x1="38.512" y1="397.834" x2="154.79" y2="397.834"/>
+        </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 59.589996, 115.031013)">
+        <title>Time to Build</title>
+        <line style="stroke: rgb(0, 0, 0); marker-start: url(#arrowToLeft); marker-end: url(#arrowToRight);" x1="0"
+              y1="286" x2="810.302" y2="286">
+            <title>Time to Build</title>
+        </line>
+        <text x="380.314" y="297.493"
+              style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px;">
+            <title>Time to Build</title>Time to Build
+        </text>
+    </g>
+    <line style="stroke: rgb(0, 0, 0);" x1="869.892" y1="415.032" x2="869.892" y2="265.032">
+        <title>Released Time Border</title>
+    </line>
+    <line style="stroke: rgb(0, 0, 0);" x1="59.59" y1="235.18" x2="59.59" y2="415.032">
+        <title>Start Time Border</title>
+    </line>
+    <g style="" transform="matrix(1.2, 0, 0, 1, -66.108002, -40.000252)">
+        <title>Summ WIP</title>
+        <rect x="438.333" y="138.485" width="75" height="20.187" style="fill: rgb(216, 216, 216);"/>
+        <text style="fill: rgba(0, 0, 0, 0.86); font-family: &quot;Open Sans&quot;; font-size: 10px; stroke: rgb(0, 0, 0); stroke-width: 0.5px; white-space: pre;"
+              x="360.389" y="152.214" transform="matrix(0.833333, 0, 0, 1, 145.377625, 0.566741)"><title>Work In
+            Progress</title>Work In Progress
+        </text>
+        <path style="fill: none; stroke: rgb(204, 204, 155);"
+              d="M 180.073 170 C 180.073 170 185.944 167.867 193.31 166.266 C 206.629 163.371 468.877 163.455 468.877 163.455 L 473.534 158.672 L 477.216 163.354 C 477.216 163.354 752.611 165.092 766.667 166.875 C 771.978 167.549 780 169.977 780 169.977">
+            <title>Bracket WIP</title>
+        </path>
+        <rect x="180" y="170" width="375" height="105.031" style="fill: rgba(103, 85, 218, 0.27);">
+            <title>Summ WIP</title>
+        </rect>
+        <rect x="555" y="170" width="225" height="105.031"
+              style="stroke-dashoffset: 1px; stroke-width: 27.2727px; stroke-miterlimit: 22; paint-order: stroke; fill-opacity: 0.77; fill: rgba(214, 209, 245, 0.51);">
+            <title>Sub Summ WIP</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Todo</title>
+        <rect x="180" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="180" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="180" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="180" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="200" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="200" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="200" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="220" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="220" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="240" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="240" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="240" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="240" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues In Progress</title>
+        <rect x="270" y="200.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="270" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="290" y="200.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="290" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="320" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
+            <title>issue blocked</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Resolved</title>
+        <rect x="409.698" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="429.698" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="429.698" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="429.698" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="429.698" y="180.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -20.108002, -4.968692)">
+        <title>Issues Testing</title>
+        <rect x="460" y="200.296" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
+            <title>issue blocked</title>
+        </rect>
+        <rect x="460" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
+            <title>issue blocked</title>
+        </rect>
+        <rect x="510" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Testing Done</title>
+        <rect x="609.698" y="200.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="590" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="609.698" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Deploying</title>
+        <rect x="630" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; stroke: rgb(204, 204, 155); fill: rgb(255, 165, 165);">
+            <title>issue blocked</title>
+        </rect>
+        <rect x="670" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="670" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="670" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 149.891998, -40.000252)">
+        <title>Throughput</title>
+        <rect x="720" y="170" width="90" height="105.18" style="fill: rgb(179, 247, 166);">
+            <title>Sum Throughput</title>
+        </rect>
+        <rect x="730" y="138.485" width="70" height="20.187" style="fill: rgb(216, 216, 216);"/>
+        <text style="font-family: &quot;Open Sans&quot;; font-size: 10px; stroke: rgb(0, 0, 0); stroke-width: 0.5px; white-space: pre;"
+              x="736.656" y="152.214"><title>Throughput</title>Throughput
+        </text>
+        <path style="stroke: rgb(204, 204, 155); fill: none;"
+              d="M 720 170 C 720 170 719.978 167.509 721.98 165 C 723.975 162.5 761.882 162.5 761.882 162.5 L 763.877 160 L 765.872 162.5 C 765.872 162.5 805.713 162.5 807.768 165 C 809.762 167.425 809.698 169.98 809.698 169.98">
+            <title>Bracket Throughput</title>
+        </path>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Deploed</title>
+        <rect x="789.698" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="789.698" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="789.698" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="770" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="750" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="769.698" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Smoke-test</title>
+        <rect x="830" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="830" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="850" y="220.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="850" y="200.148" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="830" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="830" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="830" y="140" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Backlog</title>
+        <rect x="130" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="130" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="130" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="130" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="110" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="110" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="110" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="110" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="89.698" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="89.698" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="89.698" y="160" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="89.698" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="89.698" y="140" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="109.698" y="140" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -30.108002, -4.968692)">
+        <title>Issues Released</title>
+        <rect x="949.37" y="219.852" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="969.37" y="220" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="969.37" y="200" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+        <rect x="969.37" y="180" width="20" height="20"
+              style="stroke-dashoffset: 1px; stroke-linecap: round; stroke-linejoin: bevel; fill: rgb(255, 255, 194); stroke: rgb(204, 204, 155);">
+            <title>issue</title>
+        </rect>
+    </g>
+    <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="59.892" y1="235.032" x2="59.892" y2="125.032">
+        <title>Start backlog timline</title>
+    </line>
+    <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="149.965" y1="235.032" x2="149.965" y2="50">
+        <title>ToDo Itteration TimeLine</title>
+    </line>
+    <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="599.892" y1="235.032" x2="599.892"
+          y2="125.032">
+        <title>Tested Timeline</title>
+    </line>
+    <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="689.892" y1="235.18" x2="689.892" y2="50">
+        <title>Deploying timeline</title>
+    </line>
+    <g>
+        <title>Iteration time</title>
+    </g>
+    <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="779.59" y1="235.032" x2="779.59" y2="124.884">
+        <title>Deployed Timeline</title>
+    </line>
+    <line style="stroke-dasharray: 2px; stroke: rgb(180, 180, 180);" x1="869.892" y1="235.031" x2="869.892" y2="50">
+        <title>Somke-test Timeline</title>
+    </line>
+    <text x="33.606" y="67.734"
+          style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>
+        help 1</title>Запросы готовые<tspan x="34.532" dy="1em" style="font-size: 12px; word-spacing: 0px;">
+        ​&nbsp;</tspan>к разработке
+    </text>
+    <text x="389.892" y="70.109"
+          style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>
+        help 2</title>Процесс разработки
+    </text>
+    <text x="730.97" y="67.116"
+          style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>
+        help 3</title>Поставленая<tspan x="729.896" dy="1em" style="font-size: 12px; word-spacing: 0px;">​&nbsp;</tspan>функциональность
+    </text>
+    <text x="880.97" y="67.734"
+          style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 12px;"><title>
+        help 4</title>Функциональность<tspan x="879.896" dy="1em" style="font-size: 12px; word-spacing: 0px;">
+        ​&nbsp;</tspan>включена для использования
+        <tspan x="879.896" dy="1em" style="font-size: 12px; word-spacing: 0px;">​&nbsp;</tspan>
+    </text>
+    <text x="149.447" y="450.834"
+          style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;">
+        <title>help 5</title>Команда берет на себя<tspan x="149.447" dy="1em"
+                                                         style="font-size: 10px; word-spacing: 0px;">​&nbsp;</tspan>обязательство
+        выполнить задачи
+    </text>
+    <text x="839.118" y="487.459"
+          style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 10px; text-anchor: middle;"
+          transform="matrix(1, 0, 0, 1, 33.001373, -36.625252)"><title>help 5</title>Команда выполняет взятые<tspan
+            x="839.1179809570312" dy="1em">​</tspan>на себя обязательства
+    </text>
 </svg>
